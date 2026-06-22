@@ -1,0 +1,8 @@
+{
+  "appName": "MeetMind AI",
+  "version": "1.0.0",
+  "defaultLanguage": "en",
+  "supportedLanguages": ["en", "ru", "es", "pt"],
+  "telegramBotUrl": "https://t.me/nikolai_ai_secretary_bot",
+  "telegramStartParamPrefix": "mm_"
+}
