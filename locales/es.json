@@ -1,7 +1,7 @@
 {
   "accessibility": { "skip": "Saltar al contenido" },
   "nav": { "how": "Cómo funciona", "benefits": "Qué recibes", "faq": "FAQ" },
-  "cta": { "openShort": "Abrir MeetMind AI" },
+  "cta": { "openShort": "Abrir MeetMind" },
   "hero": {
     "eyebrow": "MeetMind AI",
     "title1": "De la reunión",
