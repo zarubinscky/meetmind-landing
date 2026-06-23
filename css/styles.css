@@ -167,7 +167,7 @@ details p { margin: 0; padding: 0 0 22px; color: var(--muted); line-height: 1.6;
   .top-nav { display: none; }
   .site-header { padding: 0 24px; }
   .hero-container { padding: 72px 32px; }
-  .hero-content { max-width: 520px; margin-left: -40px; }
+  .hero-content { max-width: 520px; }
   .benefits-grid, .why-grid { grid-template-columns: repeat(2, 1fr); }
   .task-list div { grid-template-columns: 1fr; gap: 4px; }
 }
