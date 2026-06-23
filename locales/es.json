@@ -39,6 +39,6 @@
     "q3": "¿Necesito instalar algo?", "a3": "No. MeetMind AI funciona con Telegram y una Mini App de Telegram.",
     "q4": "¿Puedo probarlo gratis?", "a4": "Sí. Abre el bot y sube tu primera grabación de reunión."
   },
-  "finalCta": { "title": "¿Listo para tu próxima reunión?", "subtitle": "Prueba MeetMind AI gratis.", "cta": "Abrir MeetMind AI", "microcopy": "No requiere instalación. Funciona dentro de Telegram." },
+  "finalCta": { "title": "¿Listo para tu próxima reunión?", "subtitle": "Prueba MeetMind AI gratis.", "cta": "Abrir MeetMind", "microcopy": "No requiere instalación. Funciona dentro de Telegram." },
   "footer": { "privacy": "Privacidad", "terms": "Términos", "support": "Soporte", "telegram": "Telegram" }
 }
