@@ -5,10 +5,10 @@ const DEFAULT_LANG = 'en';
 const SUPPORTED = ['en', 'ru', 'es', 'pt'];
 
 const labels = {
-  en: 'English',
-  ru: 'Русский',
-  es: 'Español',
-  pt: 'Português'
+  en: '🇬🇧 English',
+  ru: '🇷🇺 Русский',
+  es: '🇪🇸 Español',
+  pt: '🇵🇹 Português'
 };
 
 function getByPath(obj, path) {
