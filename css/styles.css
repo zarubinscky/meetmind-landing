@@ -247,8 +247,19 @@ details p { margin: 0; padding: 0 0 22px; color: var(--muted); line-height: 1.6;
   .section { padding: 72px 20px 88px; }
   .section-header { margin-bottom: 42px; }
   .section-header p { font-size: 18px; }
-  .how-visual { overflow: hidden; border-radius: 18px; }
-  .how-visual img { width: 220%; max-width: none; transform: translateX(-26%); }
+  .how-visual {
+    overflow: visible;
+    border-radius: 18px;
+    margin-left: -12px;
+    margin-right: -12px;
+  }
+
+  .how-visual img {
+    width: 100%;
+    max-width: 100%;
+    transform: none;
+    border-radius: 16px;
+  }
   .benefits-grid, .why-grid { grid-template-columns: 1fr; gap: 18px; }
   .benefit-card { padding: 28px; min-height: auto; }
   .card-header h3 { font-size: 23px; }
