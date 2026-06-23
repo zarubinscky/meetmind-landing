@@ -1,7 +1,7 @@
 {
   "accessibility": { "skip": "Skip to content" },
   "nav": { "how": "How it works", "benefits": "What you get", "faq": "FAQ" },
-  "cta": { "openShort": "Open MeetMind AI" },
+  "cta": { "openShort": "Open MeetMind" },
   "hero": {
     "eyebrow": "MeetMind AI",
     "title1": "From meeting",
