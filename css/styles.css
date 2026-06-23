@@ -210,6 +210,7 @@ details p { margin: 0; padding: 0 0 22px; color: var(--muted); line-height: 1.6;
   .hero-content {
     max-width: none;
     padding-top: 0;
+    margin-left: 0;
   }
 
   .eyebrow {
