@@ -1,7 +1,7 @@
 {
   "accessibility": { "skip": "Перейти к содержимому" },
   "nav": { "how": "Как работает", "benefits": "Что получите", "faq": "FAQ" },
-  "cta": { "openShort": "Открыть MeetMind AI" },
+  "cta": { "openShort": "Открыть MeetMind" },
   "hero": {
     "eyebrow": "MeetMind AI",
     "title1": "От встречи",
