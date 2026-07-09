@@ -3,7 +3,7 @@ import { bindTrackedLinks, initScrollTracking, trackEvent } from './analytics.js
 import { captureUtm } from './utm.js';
 import { getVisitorId } from './visitor.js';
 
-const TELEGRAM_BOT_URL = 'https://t.me/nikolai_ai_secretary_bot';
+const TELEGRAM_BOT_URL = 'https://t.me/meetmind_app_bot';
 
 function initTelegramLinks() {
   const visitorId = getVisitorId();
